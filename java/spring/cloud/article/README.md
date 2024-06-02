@@ -1,4 +1,4 @@
-# Spring Cloud
+# Spring Framework Cloud articles
 
 
 ## Table of content

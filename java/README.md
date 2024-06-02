@@ -10,8 +10,17 @@ This module contains useful materials and guides about Java development.
 
 ### List of modules
 
-- [Spring](spring/README.md)
-- [Testing](testing/README.md)
+- Spring
+  - Cloud
+    - [Articles](spring/cloud/article/README.md)
+    - [Books](spring/cloud/book/README.md)
+- Testing
+  - Unit
+    - [Articles](testing/unit/article/README.md)
+    - [Books](testing/unit/book/README.md)
+  - Integration
+    - [Articles](testing/integration/article/README.md)
+    - [Books](testing/integration/book/README.md)
 
 
 ### GitHub useful repositories
