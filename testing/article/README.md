@@ -1,4 +1,4 @@
-# Articles module name
+# Software Quality Assurance articles
 
 
 ## Table of content
