@@ -6,7 +6,7 @@ This module contains useful materials and guides about Software Quality Assuranc
 
 ## Table of content
 
-- [List of modules](#list-of-modules)
+- ### [List of modules](#list-of-modules)
 
 
 ### List of modules
