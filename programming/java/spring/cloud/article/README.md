@@ -3,7 +3,7 @@
 
 ## Table of content
 
-- [Links](#links)
+- ### [Links](#links)
 
 
 ### Links
@@ -12,4 +12,5 @@
 that help users in successfully implementing the Consumer Driven Contracts approach
 - [An Intro to Spring Cloud Contract](https://www.baeldung.com/spring-cloud-contract) - exploring writing producer and 
 consumer side test cases for Spring Cloud Contract through an HTTP interaction
-- []() - short description
+- [Fallbacks With Spring Cloud Feign](https://arnoldgalovics.com/feign-fallback) - how to improve the behavior of your 
+app with fallbacks when a service is crashing, or unavailable
