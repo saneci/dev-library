@@ -3,9 +3,9 @@
 
 ## Table of content
 
-- ### [Official documentation](#official-documentation)
-- ### [Articles](#articles)
-- ### [Books](#books)
+- [Official documentation](#official-documentation)
+- [Articles](#articles)
+- [Books](#books)
 
 
 ### Official documentation
