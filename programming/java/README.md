@@ -10,7 +10,11 @@ This module contains useful materials and guides about Java development.
 
 ### List of modules
 
-- Spring
+- Java Core
+  - Stream API
+    - [Articles](util/stream/article/README.md)
+    - [Books](util/stream/book/README.md)
+- Spring Framework
   - Cloud
     - [Articles](spring/cloud/article/README.md)
     - [Books](spring/cloud/book/README.md)
