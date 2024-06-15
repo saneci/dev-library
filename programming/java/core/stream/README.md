@@ -1,4 +1,4 @@
-# Stream API (module java.base)
+# Java Stream API (module java.base)
 
 
 ## Table of content

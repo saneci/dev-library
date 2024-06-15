@@ -12,19 +12,13 @@ This module contains useful materials and guides about Java development.
 ### List of modules
 
 - Java Core
-  - [Stream API](util/stream/README.md)
+  - [Stream API](core/stream/README.md)
 - Spring Framework
-  - Cloud
-    - [Articles](spring/cloud/article/README.md)
-    - [Books](spring/cloud/book/README.md)
+  - [Spring Cloud](spring/cloud/README.md)
 - Testing
-  - Unit
-    - [Articles](testing/unit/article/README.md)
-    - [Books](testing/unit/book/README.md)
-    - [Utils](testing/unit/util/README.md)
-  - Integration
-    - [Articles](testing/integration/article/README.md)
-    - [Books](testing/integration/book/README.md)
+  - [Unit](testing/unit/README.md)
+  - [Integration](testing/integration/README.md)
+  - [Coverage](testing/coverage/README.md)
 
 
 ### GitHub useful repositories
