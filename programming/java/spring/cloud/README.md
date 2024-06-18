@@ -12,6 +12,8 @@
 
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract) - is an umbrella project holding solutions
   that help users in successfully implementing the Consumer Driven Contracts approach
+- [Spring Cloud OpenFeign](https://spring.io/projects/spring-cloud-openfeign) - [OpenFeign](https://github.com/OpenFeign/feign) 
+integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms
 
 
 ### Articles
