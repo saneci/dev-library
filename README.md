@@ -8,6 +8,7 @@ This repository contains useful materials and guides for software engineers.
 * ### [Software Quality Assurance](quality_assurance/README.md)
 * ### [Message Queue](messages_queue/README.md)
 * ### [System Design](system_design/README.md)
+* ### [Database Management Systems](databases/README.md)
 
 
 ## Soft Skills
