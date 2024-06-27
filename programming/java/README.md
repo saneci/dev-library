@@ -1,5 +1,7 @@
 # Java programming language
 
+[Home](../../README.md) / Java programming language
+
 This module contains useful materials and guides about Java development.
 
 
@@ -14,6 +16,7 @@ This module contains useful materials and guides about Java development.
 - Java Core
   - [Stream API](core/stream/README.md)
 - Spring Framework
+  - [Spring Core](spring/core/README.md)
   - [Spring Cloud](spring/cloud/README.md)
 - Testing
   - [Unit](testing/unit/README.md)
