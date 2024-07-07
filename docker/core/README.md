@@ -16,6 +16,7 @@
 - [Dockerfile reference](https://docs.docker.com/reference/dockerfile)
 - [Networking with standalone containers](https://docs.docker.com/network/network-tutorial-standalone/)
 - [Docker Volumes](https://docs.docker.com/storage/volumes)
+- [Start containers automatically](https://docs.docker.com/config/containers/start-containers-automatically/)
 
 
 ### Articles
